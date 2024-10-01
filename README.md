@@ -30,4 +30,4 @@ Run the development server:
 
 npm run dev
 
-# The app should now be running on [project-managememnt-app.vercel.app](https://project-managememnt-app.vercel.app/) https://project-managememnt-app.vercel.app/
+# The app should now be running on [project-managememnt-app.vercel.app](https://project-managememnt-app.vercel.app/)
