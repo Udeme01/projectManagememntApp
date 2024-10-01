@@ -15,4 +15,4 @@ JavaScript: For application logic and handling state.
 React Hooks: For managing state and side effects within functional components.
 
 # Demo
-# You can check out a live demo of the app here: Live Demo Link: [project-managememnt-app.vercel.app](https://project-managememnt-app.vercel.app/)
+# You can check out a live demo of the app here: Live Demo Link: [project-managememnt-app.vercel.app](https://project-management-aapp.vercel.app/)
