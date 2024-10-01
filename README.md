@@ -14,20 +14,5 @@ TAILWIND_CSS: For styling the UI components.
 JavaScript: For application logic and handling state.
 React Hooks: For managing state and side effects within functional components.
 
-# Installation
-To run the project locally:
-
-## Clone the repository:
-
-git clone https://github.com/yourusername/project-management-app.git
-Navigate to the project folder:
-
-cd project-management-app
-Install dependencies:
-
-npm install
-Run the development server:
-
-npm run dev
-
-# The app should now be running on [project-managememnt-app.vercel.app](https://project-managememnt-app.vercel.app/)
+# Demo
+# You can check out a live demo of the app here: Live Demo Link: [project-managememnt-app.vercel.app](https://project-managememnt-app.vercel.app/)
